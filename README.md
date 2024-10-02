@@ -11,4 +11,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/toooxan/leetcode/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/toooxan/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1390-average-selling-price](https://github.com/toooxan/leetcode/tree/master/1390-average-selling-price) |
+| [1877-find-followers-count](https://github.com/toooxan/leetcode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
