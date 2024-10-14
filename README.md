@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/toooxan/leetcode/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/toooxan/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/toooxan/leetcode/tree/master/1877-find-followers-count) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/toooxan/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/toooxan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
