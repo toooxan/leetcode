@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/toooxan/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0605-can-place-flowers](https://github.com/toooxan/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/toooxan/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/toooxan/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/toooxan/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
