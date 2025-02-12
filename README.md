@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/toooxan/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/toooxan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/toooxan/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/toooxan/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/toooxan/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/toooxan/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
